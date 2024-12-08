@@ -38,12 +38,13 @@ const developer = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEZYNE-MADU&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-### 🔝 Top Contributed Repo
 <div align="center">
 
 
+---
 [![](https://visitcount.itsvg.in/api?id=DEZYNE-MADU&icon=6&color=10)](https://visitcount.itsvg.in)
-</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  💬 Let's connect and build something amazing together!
+ </DIV>
