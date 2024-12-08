@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madushi-tharaka/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@DEZYNE_1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madushi-tharaka/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DEZYNE_1) 
 </div>
 
 
@@ -41,7 +41,6 @@ const developer = {
 ### 🔝 Top Contributed Repo
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=DEZYNE-MADU&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=DEZYNE-MADU&icon=6&color=10)](https://visitcount.itsvg.in)
 </div>
